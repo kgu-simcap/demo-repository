@@ -9,5 +9,6 @@ We achieve this by initially detecting a person's head using YOLOv9, and then dr
 We are continuously refining our code:
 
 - Transition from version 8 to version 9: In version 8, the coordinates of object centers did not match with the video (webcam). This issue has been resolved.
-- New issue in version 9: The line recognition algorithm is encountering problems.
-- https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+- New issue in version 9: The line recognition algorithm is encountering problems.<br><br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
